@@ -1,6 +1,6 @@
 
 
-
+#Card Game called Dirty Jack
 # Jeu de cartes appelé "Pouilleux"
 
 import random
