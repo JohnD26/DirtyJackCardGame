@@ -120,14 +120,14 @@ class Joueur(object):
         constructeur qui initialise le nom du joueur avec la chaine des caracteres joueur
         et la liste de cartes avec liste vide'''
 
-        # A COMPLETER
+        
 
 
     def ajoute_carte(self, carte):
         '''(Joueur, Carte) -> None
         ajoute une carte a la liste main'''
 
-        # A COMPLETER
+        
 
 
     def affiche_cartes(self):
@@ -136,7 +136,7 @@ class Joueur(object):
         Affiche le nom et les éléments de la main du joueur séparées par d'espaces
         '''
 
-        # A COMPLETER
+        
 
 
 
@@ -144,7 +144,7 @@ class Joueur(object):
         '''(Joueur, Carte) -> None
         elimine une carte de la liste self.main'''
 
-    # A COMPLETER
+    
 
 
 
@@ -153,7 +153,7 @@ class Joueur(object):
         retourne True si les main ont les meme cartes
         dans la meme ordre'''
 
-        # A COMPLETER
+        
 
 
     def __repr__(self):
@@ -161,7 +161,7 @@ class Joueur(object):
         (Joueur) -> str
         retourne une representation de l'objet de classe Joueur'''
 
-        # A COMPLETER
+        
 
 
 
